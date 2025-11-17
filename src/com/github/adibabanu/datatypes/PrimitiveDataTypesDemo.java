@@ -1,4 +1,4 @@
-package com.datatypes;
+package com.github.adibabanu.datatypes;
 
 /**
  * Demonstrates all primitive data types in Java with examples,

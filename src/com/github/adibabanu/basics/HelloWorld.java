@@ -1,4 +1,4 @@
-package com.basics;
+package com.github.adibabanu.basics;
 
 class HelloWorld
 {
